@@ -1,2 +1,2 @@
 # TrieAutoSuggest
-A simple C++ application that suggests the word based on a given prefix.
+A simple C++ application that suggests the words based on a given prefix.
